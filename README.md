@@ -1,2 +1,2 @@
 # Abdul_Lab-SpringAssignmentSolution
-Lab 6 - Spring Rest
+Lab 6 - Spring Rest Solution
